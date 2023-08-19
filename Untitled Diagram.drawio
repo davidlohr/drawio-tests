@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-19T17:26:32.881Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OQPDli-QId-M6PgopVEU" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T17:41:50.694Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="90UpxYgAB35ODuBp7EdW" version="21.6.8" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
     <mxGraphModel dx="1434" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="xX52NRWyYrMD9gy6yuDu-155" value="&lt;pre&gt;&lt;b&gt;HB1&lt;/b&gt; (ACP0016_1)&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="598" y="280" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xX52NRWyYrMD9gy6yuDu-157" value="CXL/PCIe &lt;br&gt;RP/switch topology" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="xX52NRWyYrMD9gy6yuDu-157" value="CXL/PCIe &lt;br&gt;RP/Switch topology" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="604.5" y="375" width="137" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xX52NRWyYrMD9gy6yuDu-169" value="endpoint" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
@@ -67,7 +67,7 @@
         <mxCell id="xX52NRWyYrMD9gy6yuDu-176" value="&lt;pre&gt;&lt;b&gt;HB0&lt;/b&gt; (ACP0016_0)&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="363" y="280" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xX52NRWyYrMD9gy6yuDu-177" value="CXL/PCIe &lt;br&gt;topology RP/switch" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="xX52NRWyYrMD9gy6yuDu-177" value="CXL/PCIe &lt;br&gt;topology RP/Switch" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="369" y="375" width="138" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xX52NRWyYrMD9gy6yuDu-178" value="endpoint" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
